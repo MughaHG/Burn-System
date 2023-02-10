@@ -1,9 +1,0 @@
-name: Burn-System
-version: 0.1
-main: de.simplecb.Main
-
-commands:
-  gm:
-  invsee:
-    permission: invsee.use
-    permission-message: §4Keine Rechte!
